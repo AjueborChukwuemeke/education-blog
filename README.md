@@ -1,6 +1,8 @@
 ## Coding concepts
 
-A blog website designed to provide ideas and resources for those who ar just getting started on their coding journey!
+A blog website designed to provide ideas and resources for those who are just getting started on their coding journey!
+We are about to see how fun and interesting things really get in a bit.
+Welcome aboard ALL!
 
 ## install
 
